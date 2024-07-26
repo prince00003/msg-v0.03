@@ -1,0 +1,17 @@
+.msgdiv {
+    height: 15px;
+    width: fit-content;
+    font-size: larger;
+    color: aliceblue;
+    padding: 5px;
+    margin: 7px;
+    
+    
+}
+.box {
+    height: 600px;
+    border: 18px solid red;
+    border-top-color: black;
+background: linear-gradient(312deg, #EC407A, #8BC34A, #9575CD, #6D4C41);
+
+}
